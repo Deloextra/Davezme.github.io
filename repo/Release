@@ -1,0 +1,7 @@
+Origin: Davidezme
+Label: Davidezme Official Repository 
+Suite: stableVersion: 1 
+Codename: Davidezme's Repo 
+Architectures: iphoneos-arm 
+Components: main 
+Description: Davidezme extra's Repo 
