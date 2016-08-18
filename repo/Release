@@ -1,7 +1,7 @@
-Origin: Davidezme
-Label: Davidezme Official Repository 
-Suite: stableVersion: 1 
-Codename: Davidezme's Repo 
-Architectures: iphoneos-arm 
-Components: main 
-Description: Davidezme extra's Repo 
+Origin: BlackFed
+Label: Blackfed Official Repository
+Suite: stableVersion: 1
+Codename: BlackFed's Repo
+Architectures: iphoneos-arm
+Components: main
+Description: BlackFed's Repo
