@@ -1,0 +1,8 @@
+Origin: Davezme's Repo
+Label: Davezme's Repo
+Suite: stable
+Version: 1.0
+Codename: Davezme
+Architectures: iphoneos-arm
+Components: main
+Description: Davezme's Repo
